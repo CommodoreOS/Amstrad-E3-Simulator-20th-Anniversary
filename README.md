@@ -3,6 +3,8 @@ This is a home screen for Android thats basied on the Amstrad E3 Emailer Videoph
 
 ![AMSTRAD E3 HOME SCREEN](https://i.ibb.co/cc9H8Hxd/Amstrad-E3-Homescreen.png).
 
+You Tube video <img src="https://www.youtube.com/watch?v=gxLuWUs4GA4" alt="videor" width="854" height="480" />
+
 Link to the Amstrad/Sinclair Community Forum
 ---------------------------------------------
 https://amstrad-e3-hacking.freeforums.net/thread/24/amstrad-delta-simulator-anniversary-edition
