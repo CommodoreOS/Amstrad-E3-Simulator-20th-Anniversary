@@ -12,7 +12,8 @@ You Tube video - https://www.youtube.com/watch?v=gxLuWUs4GA4 - Showing older ver
 It running on a Amazon Fire 7inch Tablet
 -------------------------------------------
 
-![AMSTRAD E3](https://i.ibb.co/rf5WYg5X/amstard-e3.jpg)
+![amstard e3](https://github.com/user-attachments/assets/4ae4d34e-601a-4923-a24d-53d83f0cc19e)
+
 
 Link to the Amstrad/Sinclair Community Forum
 ---------------------------------------------
