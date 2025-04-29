@@ -9,6 +9,11 @@ This was the Amstrad E3 Videophone Emailer
 
 You Tube video - https://www.youtube.com/watch?v=gxLuWUs4GA4 - Showing older version.
 
+It running on a Amazon Fire 7inch Tablet
+-------------------------------------------
+
+![AMSTRAD E3](https://i.ibb.co/rf5WYg5X/amstard-e3.jpg)
+
 Link to the Amstrad/Sinclair Community Forum
 ---------------------------------------------
 https://amstrad-e3-hacking.freeforums.net/thread/24/amstrad-delta-simulator-anniversary-edition
