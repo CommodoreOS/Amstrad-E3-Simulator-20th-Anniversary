@@ -9,6 +9,6 @@ Link to the Amstrad/Sinclair Community Forum
 ---------------------------------------------
 https://amstrad-e3-hacking.freeforums.net/thread/24/amstrad-delta-simulator-anniversary-edition
 
-If you are interested in this and want to work on it to please contact me, not everyone is interseed in it because the |Amstrad E3 Videophone was only re;leased in the UK in 2004, its other models E1(1999) and E2(2002) were as well so only know about this if you had one.
+If you are interested in this and want to work on it to please contact me, not everyone is interseed in it because the Amstrad E3 Videophone was only released in the UK in 2004, its other models E1(1999) and E2(2002) were as well so only know about thses if you bought one from Dixons or Tesco at the time.
 
-If anyone would like me to put the Amstrad E2 home screen into it to so you can switch models so you have the green monicrhome clock I can but no point if no interest... :)
+If anyone would like me to add the Amstrad E2 Emailer home screen into it to so you can switch models so you have the green monicrhome clock home screen I can but no point if no interest... :)
