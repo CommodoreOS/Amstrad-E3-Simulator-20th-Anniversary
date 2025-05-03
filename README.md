@@ -1,7 +1,7 @@
 # Amstrad E3 Simulator 20th Anniversary
 This is a home screen for Android thats basied on the Amstrad E3 Videophone Emailer home screen, I made it because my Amstrad E3 Videophone deactivaed itself(in 3 months or less) and I still wanted something like it on a Android 7inch Tablet and I was famular with it already so made it to replace it, I liked its clock and was use to it been there from 2004.
 
-And this allows you to continue to use the E3's Main Software without using a Amstrad E3 Vidophone thats 20 years old, the hardware will not last forever, that why we need simulators or emulators of old tec so it can still be used, so saves on the hardware, you just need a Android 7" inch Tablet, it can be run on a bigger tablet too, and this a part of britsh history and how a Amstrad E3 worked.
+And this allows you to continue to use the E3's Main Software without using a Amstrad E3 Vidophone thats 20 years old, the hardware will not last forever, that why we need simulators or emulators of old tec so it can still be used, so saves on the hardware, you just need a Android 7" inch Tablet, it can be run on a bigger tablet too, and this a part of britsh device history and how a Amstrad E3 worked, first of its kind that could read email at the time so before mobile phones or smart phones doing it.
 
 ![AMSTRAD E3 HOME SCREEN](https://i.ibb.co/cc9H8Hxd/Amstrad-E3-Homescreen.png).
 
