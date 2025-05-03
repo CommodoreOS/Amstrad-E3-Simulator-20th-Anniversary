@@ -17,8 +17,8 @@ It running on a Amazon Fire 7inch Tablet
 
 ## To Do List
 
-I want to add touch buttons on its home that open a app on Android so like a shourtcut to the Email/Gmail apps on Android.
-but at the moment do not know how to add it, looked online and can't find anything about idoing it.
+I want to add touch buttons on its home screen that open a app on Android so like a shourtcut to the Email/Gmail apps on Android.
+but at the moment I do not know how to add it, looked online and on the Adobe Animate Help website and can't find anything about doing it or adding it.
 
 
 Link to the Amstrad/Sinclair Community Forum
