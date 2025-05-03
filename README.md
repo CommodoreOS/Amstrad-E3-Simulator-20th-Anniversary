@@ -15,8 +15,7 @@ It running on a Amazon Fire 7inch Tablet
 ![amstard e3](https://github.com/user-attachments/assets/4ae4d34e-601a-4923-a24d-53d83f0cc19e)
 
 
-## To Do
----------
+## To Do List
 
 I want to add touch buttons on its home that open a app on Android so like a shourtcut to the Email/Gmail apps on Android.
 but at the moment do not know how to add it, looked online and can't find anything about idoing it.
